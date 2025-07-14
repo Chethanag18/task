@@ -1,0 +1,6 @@
+Agile methodology is a modern approach to software development and project management that emphasizes
+Iterative development
+Customer collaboration
+Quick feedback loops
+Adaptability to change
+It focuses on delivering small, workable pieces of a product frequently rather than building everything all at once.
