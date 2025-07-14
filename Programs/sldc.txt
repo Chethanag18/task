@@ -1,0 +1,13 @@
+Why SDLC is Important?
+Provides structure and discipline in software development
+Helps in planning, cost estimation, and resource allocation
+Improves quality and customer satisfaction
+Ensures timely delivery of the final product
+
+Popular SDLC Models:
+Waterfall Model (linear and sequential)
+Agile Model (iterative and flexible)
+V-Model (testing runs in parallel with development)
+Spiral Model (focuses on risk analysis)
+Iterative Model (repeated cycles of development)
+Big Bang Model (little to no planning, mostly used for small projects)
