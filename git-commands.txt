@@ -1,0 +1,6 @@
+cd my-project-folder
+git init
+git remote add origin https://github.com/username/repo.git
+git add .
+git commit -m "Add project files"
+git push -u origin main
